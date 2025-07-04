@@ -1,6 +1,6 @@
 # Mental Health Awareness Project
 
-- This Project is done as a part of the Higher National Diploma. This aims to educate and support individuals in understanding mental health as an essential part of overall well-being.
+- This Project is done as a part of the Higher National Diploma in Software Engineering. This aims to educate and support individuals in understanding mental health as an essential part of overall well-being.
   
 - This project integrates data analytics to raise awareness and understanding of mental health trends and challenges. Here is a break down of the main tools used: <br>
   
